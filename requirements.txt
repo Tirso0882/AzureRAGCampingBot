@@ -1,0 +1,11 @@
+azure-ai-evaluation[remote]
+azure-ai-projects
+azure-ai-inference[prompts]
+azure-core-tracing-opentelemetry
+azure-identity
+azure-monitor-opentelemetry
+azure-search-documents
+pandas
+python-dotenv
+opentelemetry-api
+opentelemetry-sdk
