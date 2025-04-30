@@ -78,7 +78,7 @@ The evaluation framework assesses the quality of the assistant's responses using
 <table>
   <tr>
     <td width="200">
-      <img src="../screenshots/evaluation_groundedness.png" alt="EVALUATION tool" width="400"/>
+      <img src="screenshots/evaluation_groundedness.png" alt="EVALUATION tool" width="400"/>
     </td>
     <td>
       This average score indicates better groundedness. Since the scale ranges from 1 to 5, a score of 4.15 suggests that the content is generally well-grounded but has room for improvement.
@@ -135,7 +135,7 @@ To add new products to the assistant:
 <table>
   <tr>
     <td width="400">
-      <img src="../screenshots/trace_chat_with_products.png" alt="TRACING tool" width="400"/>
+      <img src="screenshots/trace_chat_with_products.png" alt="TRACING tool" width="400"/>
     </td>
     <td>
       <strong>Tracing</strong> helps understanding the execution flow, debugging issues, and optimising performance, especially in complex AI workflows. It provides a detailed view of how the application behaves, making it easier to identify bottlenecks, pinpoint errors, and ensure the application is working as intended.
